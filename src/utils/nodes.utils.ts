@@ -16,6 +16,7 @@ const initialNodes: Node<NodeData>[] = [
   {
     id: "2",
     position: { x: 0, y: 100 },
+    type: "conversation",
     data: {
       label: "2",
       json: { description: "randodewiewg", id: 4, name: "test" },
